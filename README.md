@@ -1,5 +1,5 @@
 # Photo-Game
-A simple game that uses C# 
+A game I made that uses C#  
 The game has 10 pictures, 5 pairs of 2 same pictures, of car manufacturers and they're turned so you don't see them. Them, you're supposed to click the 2 same pictures while being turned back,
 once you click the 2 same pictures, they disappear. 
 When you have clicked all the correct pictures the game finishes and saves your number of tries to a leaderboard you can find in the main menu.
